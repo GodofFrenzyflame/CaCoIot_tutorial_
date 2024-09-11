@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="HCMUT Advanced Computing Lab document site">
+      description="HCMUT CaCoIot document site">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

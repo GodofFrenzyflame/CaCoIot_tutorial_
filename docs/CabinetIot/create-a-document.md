@@ -14,7 +14,7 @@ RS485 32-Ch Relay Module.
 
 Modbus RTU Protocol, Multi Isolation Protection Circuits, Safe & Stable & Reliable.
 
-![](@site/static/img/imgG1/Device/modbus-rtu-relay-32ch-1.jpg)  
+![](./img/Device/modbus-rtu-relay-32ch-1.jpg)  
 
 **<p style={{ color: 'darkorange' }}>Function:</p>**
 - Controls the `*on/off*` state of 32 relay channels via the Modbus RTU protocol.
@@ -39,7 +39,7 @@ Modbus RTU Protocol, Multi Isolation Protection Circuits, Safe & Stable & Reliab
 ### <p style={{ color: 'purple' }}>Yolo Uno (esp32-s3)</p>
 
 
-![](@site/static/img/imgG1/Device/Yolouno.png)
+![](./img/Device/Yolouno.png)
 
 
 - Yolo UNO is a programming circuit designed in the form of Arduino Uno with ESP32-S3 chip, Espressif's latest chip line, with 16MB flash memory and up to 8MB PSRAM memory.
@@ -54,7 +54,7 @@ Modbus RTU Protocol, Multi Isolation Protection Circuits, Safe & Stable & Reliab
 ---
 ### <p style={{ color: 'purple' }}>RS485 TTR</p>
 
-![](@site/static/img/imgG1/Device/rs485ttr.jpg)
+![](./img/Device/rs485ttr.jpg)
 
 **<p style={{ color: 'darkorange' }}>Function:</p>**
 - Facilitates data communication between devices via RS485.
@@ -77,7 +77,7 @@ Modbus RTU Protocol, Multi Isolation Protection Circuits, Safe & Stable & Reliab
 ---
 ### <p style={{ color: 'purple' }}>Timer THC30A</p>
 
-![](@site/static/img/imgG1/Device/Timer.jpg)
+![](./img/Device/Timer.jpg)
 
 **<p style={{ color: 'darkorange' }}>Function:</p>**
 - Automatically schedules devices to turn on/off.
@@ -128,7 +128,7 @@ The bottom right corner of the screen has displays corresponding to the followin
 ### <p style={{ color: 'purple' }}>Aptomat ELCB Hyundai 30A</p>
 
 
-![](@site/static/img/imgG1/Device/Ap.jpg)
+![](./img/Device/Ap.jpg)
 
 **<p style={{ color: 'darkorange' }}>Function:</p>**
 - Protects the electrical system from overload and short circuits.
@@ -150,7 +150,7 @@ The bottom right corner of the screen has displays corresponding to the followin
 ---
 ### <p style={{ color: 'purple' }}>Contactor</p>
 
-![](@site/static/img/imgG1/Device/contactor.jpg)
+![](./img/Device/contactor.jpg)
 
 **<p style={{ color: 'darkorange' }}>Function:</p>**
 - Controls the on/off state of high-power devices.

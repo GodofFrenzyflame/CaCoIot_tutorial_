@@ -8,7 +8,7 @@ sidebar_position: 1
 
 In recent years :globe_with_meridians:, the integration of **Iot** technology into agriculture has seen significant advancements, offering substantial benefits in remote device management and control via mobile applications. This modern IoT system enables optimal adjustments of parameters such as water and light based on gathered data, thereby enhancing agricultural productivity.
 
-![](@site/static/img/imgG1/cabinet00.jpg)
+![](./img/cabinet00.JPG)
 
  :white_check_mark: **<span style={{ color: 'green' }}>Remote Control:</span>** Users can remotely monitor and control devices through a mobile
 

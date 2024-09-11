@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Advanced Computing Lab',
-  tagline: 'Internship Documentations',
+  title: 'CaCo Iot',
+  tagline: 'Documentations',
   favicon: 'img/bachkhoa_wIm_icon.ico',
 
   // Set the production url of your site here
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/bachkhoa.png',
       navbar: {
-        title: 'ACLAB',
+        title: 'CaCoIot',
         logo: {
           alt: 'My Site Logo',
           src: 'img/bachkhoa.png',

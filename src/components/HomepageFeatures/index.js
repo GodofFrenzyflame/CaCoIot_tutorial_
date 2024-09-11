@@ -12,24 +12,24 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    title: 'M5Stack CoreMP135',
-    Svg: require('@site/static/img/coremp135.svg').default,
-    description: (
-      <>
-        CoreMP35 is a highly integrated microprocessor core designed for embedded systems, offering a balance of performance, power efficiency, and flexibility.
-      </>
-    ),
-  },
-  {
-    title: 'ESP32-S3',
-    Svg: require('@site/static/img/esp32.svg').default,
-    description: (
-      <>
-        ESP32-S3 is a powerful microcontroller from Espressif Systems, designed for versatile IoT applications.
-      </>
-    ),
-  },
+  // {
+  //   title: 'Web Server',
+  //   Svg: require('...').default,
+  //   description: (
+  //     <>
+  //      A web server is a system that stores and serves web content to users when requested by the browser, through protocols such as HTTP/HTTPS. It processes and returns the HTML pages, images, or data needed to render the website.
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'Web User',
+  //   Svg: require('...').default,
+  //   description: (
+  //     <>
+  //      A web user is a user who accesses websites through a browser or web application. You will interact with the content on the website, such as reading information, viewing images, submitting forms, and using other features that the website provides.
+  //     </>
+  //   ),
+  // },
 ];
 
 function Feature({Svg, title, description}) {
